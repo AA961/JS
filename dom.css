@@ -1,0 +1,17 @@
+.text{
+    font-size: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    background: wheat;
+    border: burlywood 2px solid;
+    padding: 1rem 2rem;
+    box-shadow: 0px 10px 20px;
+}
+
+.none{
+    display: block;
+}
+
+.btn2{
+    display: none;
+}
